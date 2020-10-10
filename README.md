@@ -34,6 +34,14 @@ Aplicação cliente para controle de PC / Mac por voz usando a Alexa.
 - ❌ Transmisão de tela (Mac)
 - ❌ Criar Rotina (Mac)
 - ❌ Abrir um site (Mac)
+- ❌ Abrir programa gráfico (Windows)
+- ❌ Fechar programa gráfico (Windows)
+- ❌ Abrir programa terminal (Windows)
+- ❌ Fechar programa terminal (Windows)
+- ❌ Controle do play de música (Windows)
+- ❌ Transmisão de tela (Windows)
+- ❌ Criar Rotina (Windows)
+- ❌ Abrir um site (Windows)
 
 
 
